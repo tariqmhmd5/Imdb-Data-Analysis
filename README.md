@@ -1,4 +1,4 @@
-# FDI Data Analysis Using Tableau
+# Analysis on Imdb Dataset
 **Problem Statement:**
 
 Create a dashboard which contain plots of:
@@ -18,5 +18,5 @@ A CSV file
 ### **Solution**
  
 
-![Photo.jpeg]()
+![Photo.jpeg](https://raw.githubusercontent.com/tariqmhmd5/Imdb-Data-Analysis/main/Dashboard.png)
 
